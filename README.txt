@@ -1,8 +1,5 @@
-This repo is read-only and for historical reference. The original maintainer
-is now deceased and the project appears to have been dropped.
-
-If you with for this project to continue, please fork the project.
-
+This organization was created to preserve mathomatic and perhaps fix some
+bugs or add some features.
 
                                   Mathomatic
                            Computer Algebra System
